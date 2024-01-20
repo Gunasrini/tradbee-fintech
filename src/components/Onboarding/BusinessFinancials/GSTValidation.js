@@ -19,7 +19,7 @@ export default function GSTValidation() {
                 </li>
             </ul>
             <div className='download-userguide-btn'>
-                <button className='btn btn-outline-primary'><i class="fas fa-download"></i> Download User Guide</button>
+                <button className='btn btn-outline-primary'><i className="fas fa-download"></i> Download User Guide</button>
             </div>
             <div className="KYC-completion">
                 <li>

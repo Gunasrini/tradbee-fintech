@@ -368,7 +368,7 @@ span.bars-icon {
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
   padding: 20px 40px;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 .nextpage-section .btn {
