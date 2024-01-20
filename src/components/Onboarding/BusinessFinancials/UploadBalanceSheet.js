@@ -48,7 +48,7 @@ export default function UploadBalanceSheet() {
                     <div id="lastYear" className="tab-pane">
                         <ul className="bank-list balance-sheet">
                             <li>
-                                <span className="icon"><i class="far fa-file-excel"></i></span>
+                                <span className="icon"><i className="far fa-file-excel"></i></span>
                                 <div className="bank-info">
                                     <h4>Balance Sheet (FY 2021-22)</h4>
                                 </div>
@@ -62,7 +62,7 @@ export default function UploadBalanceSheet() {
                                 </div>
                             </li>
                             <li>
-                                <span className="icon"><i class="far fa-file-excel"></i></span>
+                                <span className="icon"><i className="far fa-file-excel"></i></span>
                                 <div className="bank-info">
                                     <h4>Balance Sheet (FY 2022-23)</h4>
                                 </div>
@@ -76,7 +76,7 @@ export default function UploadBalanceSheet() {
                                 </div>
                             </li>
                             <li>
-                                <span className="icon"><i class="far fa-file-excel"></i></span>
+                                <span className="icon"><i className="far fa-file-excel"></i></span>
                                 <div className="bank-info">
                                     <h4>Balance Sheet (FY 2023-24)</h4>
                                 </div>
